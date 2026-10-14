@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Korea Naturalization Practice: a study card with a confirmed answer. Replace with your final store icon. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A5BC4"/>
+      <stop offset="1" stop-color="#10204A"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#bg)"/>
+  <rect x="26" y="32" width="76" height="62" rx="12" fill="#FFFFFF"/>
+  <rect x="38" y="46" width="30" height="7" rx="3.5" fill="#C9D6F0"/>
+  <rect x="38" y="61" width="52" height="7" rx="3.5" fill="#C9D6F0"/>
+  <rect x="38" y="76" width="40" height="7" rx="3.5" fill="#C9D6F0"/>
+  <circle cx="94" cy="90" r="19" fill="#CD2E3A"/>
+  <path d="M85 90l6 6 12-12" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
